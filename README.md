@@ -1,1 +1,1 @@
-# apuntesSolidity
+# Learning solidity
