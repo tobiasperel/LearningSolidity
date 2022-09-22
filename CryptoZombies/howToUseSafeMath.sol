@@ -20,4 +20,5 @@ contract duck  {
   uint256 c = a.mul(2); // 5 * 2 = 10
 
 }
+/* if we have an uint32, for example, we have to implement using SafeMath32 for uint32;
 
